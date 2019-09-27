@@ -1,2 +1,2 @@
-# hello-service-hooks-hld
-HLD for https://github.com/samiyaakhtar/hello-service-hooks
+# hello-serivce-hooks-hld
+HLD for hello service hooks

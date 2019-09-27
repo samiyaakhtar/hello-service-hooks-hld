@@ -1,0 +1,8 @@
+name: hello-service-hooks
+subcomponents:
+- name: hello-service-hooks
+  type: component
+  source: https://github.com/samiyaakhtar/hello-service-hooks
+  method: git
+  branch: master
+  path: ring

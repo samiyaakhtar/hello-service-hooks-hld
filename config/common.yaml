@@ -1,0 +1,6 @@
+subcomponents:
+  hello-service-hooks:
+    config:
+      image:
+        repository: hellorings.azurecr.io
+        tag: hello-service-hooks-master-5577

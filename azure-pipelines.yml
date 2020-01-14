@@ -92,7 +92,7 @@ steps:
 #   displayName: Update commit id in database
 
 - script: |
-    cd "$HOME"/hello-service-hooks
+    cd "$HOME"/hello-bedrock-manifest
     curl $SCRIPT > script.sh
     chmod +x ./script.sh
     latest_commit=$(git rev-parse --short HEAD)

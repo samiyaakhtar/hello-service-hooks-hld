@@ -3,4 +3,4 @@ subcomponents:
     config:
       image:
         repository: hellorings.azurecr.io
-        tag: hello-service-hooks-master-17994
+        tag: hello-service-hooks-master-18158
